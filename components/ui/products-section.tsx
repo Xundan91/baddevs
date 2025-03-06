@@ -8,7 +8,7 @@ import { cn } from "@/lib/utils";
 
 const products = [
   {
-    title: "DevFlow",
+    title: "BADDevFlow",
     description: "A comprehensive project management tool designed specifically for development teams to streamline workflows and boost productivity.",
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
     tags: ["Project Management", "Collaboration", "Productivity"]

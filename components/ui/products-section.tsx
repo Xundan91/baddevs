@@ -70,7 +70,7 @@ export function ProductsSection() {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Our Products</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            We've built innovative solutions that solve real-world problems for businesses and developers.
+            We&apos;ve built innovative solutions that solve real-world problems for businesses and developers.
           </p>
         </div>
 
